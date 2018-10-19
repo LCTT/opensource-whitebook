@@ -20,7 +20,7 @@
         * 2.3.3 项目的结构  <!-- 合理的项目结构，python 尤甚 -->
         * 2.3.4 gitignore <!-- 介绍 .gitignore 和 gitignore.io -->
         * 2.3.5 编辑器格式规整 Editorconfig <!-- 介绍 editorconfig -->
-        * 2.3.6 其他一些辅助工具 <!-- 介绍 shields.io -->
+        * [2.3.6 其他一些辅助工具](chapter-2/2.3.6.md) <!-- 介绍 shields.io -->
 * 第三章：维护一个开源项目
     * 3.1 不同的 git 工作流
         * 3.1.1 Git Flow <!-- 介绍 git flow -->
