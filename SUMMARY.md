@@ -16,7 +16,7 @@
     * [2.2 代码托管平台选择](chapter-2/2.2.md)
     * [2.3 创建项目](chapter-2/2.3.md)
         * 2.3.1 创建一个项目 <!-- 创建一个项目，以及一些注意事项-->
-        * 2.3.2 项目的帮助文件  <!-- readme、license、changelog -->
+        * [2.3.2 项目的帮助文件](chapter-2/2.3.2.md)  <!-- readme、license、changelog -->
         * 2.3.3 项目的结构  <!-- 合理的项目结构，python 尤甚 -->
         * 2.3.4 gitignore <!-- 介绍 .gitignore 和 gitignore.io -->
         * 2.3.5 编辑器格式规整 Editorconfig <!-- 介绍 editorconfig -->
