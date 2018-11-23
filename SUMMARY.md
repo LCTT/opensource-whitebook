@@ -12,11 +12,11 @@
         * 1.3.3 志愿者  <!-- 帮助开发者维护社区、构建生态 -->
         * 1.3.4 开源企业 <!-- 企业支持开源项目、探索商业化道路 -->
 * 第二章：创建一个开源项目 <!-- 以 Github 为例 -->
-    * 2.1 版本控制工具选择 <!-- 介绍 Git、SVN -->
-    * 2.2 代码托管平台选择  <!-- 介绍 Github、Bitbucket、Gitlab 、Gitee 等代码托管平台-->
-    * 2.3 创建项目
+    * [2.1 版本控制工具选择](chapter-2/2.1.md)
+    * [2.2 代码托管平台选择](chapter-2/2.2.md)
+    * [2.3 创建项目](chapter-2/2.3.md)
         * 2.3.1 创建一个项目 <!-- 创建一个项目，以及一些注意事项-->
-        * 2.3.2 项目的帮助文件  <!-- readme、license、changelog -->
+        * [2.3.2 项目的帮助文件](chapter-2/2.3.2.md)  <!-- readme、license、changelog -->
         * 2.3.3 项目的结构  <!-- 合理的项目结构，python 尤甚 -->
         * 2.3.4 gitignore <!-- 介绍 .gitignore 和 gitignore.io -->
         * 2.3.5 编辑器格式规整 Editorconfig <!-- 介绍 editorconfig -->
